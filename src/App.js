@@ -5,7 +5,7 @@ import AddTask from "./component/AddTask";
 function App() {
   return (
     <div>
-      <h1 className="title">YOUR PLAN Right here?</h1>
+      <h1 className="title">Your Plan Right here?</h1>
       <AddTask />
       <ListTask />
     </div>
